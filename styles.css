@@ -9,3 +9,15 @@ p {
   color: #FFFFFF;
   text-align: center;
 }
+a:link {
+    color: #0066cc;
+}
+a:visited {
+    color: #551a8b;
+}
+a:hover {
+    color: #ff0000;
+}
+a:active {
+    color: #ffcc00;
+}
